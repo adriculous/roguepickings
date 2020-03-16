@@ -1,5 +1,5 @@
 # Rogue Pickings
-This is a simple website practice project. So far, it's only the home page that's completed. This is a practice project from my HTML/CSS course. I plan on expanding it by adding pages, but that will be reserved for another time.
+This is a simple website practice project (unresponsive). So far, it's only the home page that's completed. This is a practice project from my HTML/CSS course. I plan on expanding it by adding pages, but that will be reserved for another time.
 
 ## Built with...
 - HTML(5)
