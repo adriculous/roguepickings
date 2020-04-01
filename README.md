@@ -13,4 +13,4 @@ This is a simple website practice project (unresponsive). So far, it's only the 
 ## Live versions
 - [Live](https://adrianne.dev/projects/roguepickings)
 - [GitHub](https://github.com/roguepickings)
-- [CodePen] (https://codepen.io/adriculous-the-looper/pen/wvajeyg)
+- [CodePen](https://codepen.io/adriculous-the-looper/pen/wvajeyg)
